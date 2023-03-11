@@ -1,0 +1,19 @@
+*{
+    gap: 1rem;
+    padding: 1rem;
+}
+.container, .blue, .green, .orange, .violet{
+    border: 1px solid;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.orange{
+    background-color: orange;
+}
+.violet{
+    background-color: violet;
+}
